@@ -44,8 +44,16 @@
 <img src= "https://github.com/user-attachments/assets/841cce7e-0f9e-44ae-9bed-5d741f2c93cd"/>
 
 
+## 트러블슈팅 
+- **Web 와 App 간의 연동 문제**
+      Web 와 App이 같은 DB를 활용해서 데이터를 수집하기 위해서는 중간의 매개체가 필요 <br>
+    ⇒ ( PHP를 활용하여 DB 연결 및 쿼리문을 통한 데이터 수집 및 조회 기능 구현)   
+    
 
-
+- **NFC 정보 읽어오는 문제**
+    NFC 정보를 등록하기위해서는 NFC 등록 관련 이벤트가 필요 <br>
+     ⇒ ( NFC 태그 접촉할시에 인텐트를 호출하여 해당 NFC UID를 불러옴 )<br>
+     ⇒   ( 불러온 UID는 바이트로 되어있으므로 문자열로 파싱하여 UID 정보 저장)
 
 
 ## 개발툴
