@@ -28,17 +28,15 @@
 - Web : Springboot
 
 ## 개발 기간 
-- 전체 개발 기간 : 2022-10-05 ~ 2022-11-05
-- 회의 :  2022-10-11 ~ 2022-10-29 ((주)디월드 전무이사님 멘토링) 
-- 기능 구현 : 2022-10-10 ~ 2022-11-04
+- 전체 개발 기간 : 2022.12.01 ~ 2023.01.20
+- 기능 구현 : 2022-12-01 ~ 2022-01-17
 
-## 모델링 
-- 데이터셋 구성
-![image](https://github.com/user-attachments/assets/4b1ee16b-39b2-44a1-9ce0-89de0fd1661d)
-![image](https://github.com/user-attachments/assets/8048473c-87e8-4caf-90ea-1a5e308e768c)
-
-## 학습코드 
-https://github.com/cho123456789/Hustar-BMK-Yolov5
+## H/W 구성
+- 사용된 하드웨어
+- ![Untitled](https://github.com/user-attachments/assets/aae4b825-618c-42b0-8ba9-4d790341c890)
+  
+- 하드웨어 회로도 구조
+- ![다운로드](https://github.com/user-attachments/assets/e3a8d5f7-e481-4477-b7e7-647b202d947c)
 
 ## 패이지별 기능
 
