@@ -16,6 +16,7 @@
 
 </div>
 <br>
+
 ## 개발 구조
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f731225f-c12c-4e32-bcf8-b08dc807b679" alt="제목을 입력해주세요" width="700" height="300">
