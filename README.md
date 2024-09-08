@@ -33,10 +33,16 @@
 
 ## H/W 구성
 - 사용된 하드웨어
-- ![Untitled](https://github.com/user-attachments/assets/aae4b825-618c-42b0-8ba9-4d790341c890)
+ ![Untitled](https://github.com/user-attachments/assets/aae4b825-618c-42b0-8ba9-4d790341c890)
   
 - 하드웨어 회로도 구조
-- ![다운로드](https://github.com/user-attachments/assets/e3a8d5f7-e481-4477-b7e7-647b202d947c)
+ ![다운로드](https://github.com/user-attachments/assets/e3a8d5f7-e481-4477-b7e7-647b202d947c)
+
+## UI/UX
+![Untitled (1)](https://github.com/user-attachments/assets/2d51f0b7-94b5-4870-9e80-1e738957fbe7)
+![Untitled (2)](https://github.com/user-attachments/assets/c6735fae-cde6-41ea-92ce-74db74ab85c5)
+
+
 
 
 ## 개발툴
