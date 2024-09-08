@@ -1,5 +1,5 @@
 # **미아 빙지 프로젝트**
-<img src="https://github.com/user-attachments/assets/b67cf068-bdc0-48e4-aa53-c522824307a7" alt ="무인파손시스템" width = "600" height="400">
+<img src="https://github.com/user-attachments/assets/cffbe5fc-a92b-4007-ac42-f88cd5554aad" alt ="무인파손시스템" width = "600" height="400">
 
 ## 프로젝트 소개
 - 해마다 실종 아동 신고수가 2만건 이상이 발생하고 1년이 넘도록 찾지 못하는 사례가 **871건**으로 적지 않는 추세를 보이고 있음
