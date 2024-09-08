@@ -41,7 +41,9 @@
 
 ## UI/UX
 ![Untitled (1)](https://github.com/user-attachments/assets/2d51f0b7-94b5-4870-9e80-1e738957fbe7)
-![Untitled (2)](https://github.com/user-attachments/assets/c6735fae-cde6-41ea-92ce-74db74ab85c5)
+<img src= "https://github.com/user-attachments/assets/841cce7e-0f9e-44ae-9bed-5d741f2c93cd"/>
+
+
 
 
 
