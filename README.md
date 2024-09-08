@@ -1,4 +1,4 @@
-# **미아 빙지 프로젝트**
+# **미아 방지 프로젝트**
 <img src="https://github.com/user-attachments/assets/cffbe5fc-a92b-4007-ac42-f88cd5554aad" alt ="무인파손시스템" width = "600" height="400">
 
 ## 프로젝트 소개
@@ -48,4 +48,6 @@
 
 ## 개발툴
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=Espressif&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+
