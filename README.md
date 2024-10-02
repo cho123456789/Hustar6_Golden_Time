@@ -26,7 +26,7 @@
 ## 개발 환경:
 - Front : Android Studio JAVA (target sdk 32 / mid sdk 21)
 - DB :  Firebase Storage , PHP 
-- Web : Springboot
+- Web : Javascript
 
 ## 개발 기간 
 - 전체 개발 기간 : 2022.12.01 ~ 2023.01.20
