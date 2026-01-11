@@ -1,5 +1,4 @@
 # **미아 방지 프로젝트**
-<img src="https://github.com/user-attachments/assets/cffbe5fc-a92b-4007-ac42-f88cd5554aad" alt ="무인파손시스템" width = "600" height="400">
 
 ## 프로젝트 소개
 - 해마다 실종 아동 신고수가 2만건 이상이 발생하고 1년이 넘도록 찾지 못하는 사례가 **871건**으로 적지 않는 추세를 보이고 있음
@@ -11,7 +10,7 @@
 <div align="center">
 
 
-| **김수겸** | **채수명** | **이지은** | **조형석** |
+| **김수겸** | **채수명** | **이지은** | **나** |
 | :------: |  :------: | :------: | :------: |
 | <img src="https://github.com/user-attachments/assets/e553fca2-ffae-421f-8e77-bed2e1a7bf32" height=150 width=150> <br/>  **Web개발** | <img src="https://github.com/user-attachments/assets/c1d237ad-1685-44a5-b476-b0da86dcdaef" height=150 width=150> <br/> **DB및PHP설계** |<img src="https://github.com/user-attachments/assets/0ce22f69-4444-4923-85c2-896217f7dcc5" height=150 width=150> <br/> **Android**| <img src="https://github.com/user-attachments/assets/5abd2834-0221-477f-a75e-ee580d22c1f0" height=150 width=150> <br/> **Android**|
 
